@@ -1,0 +1,20 @@
+sudo: false
+language: node_js
+node_js:
+  - 10
+cache: npm
+branches:
+  only:
+    - source # store source code of hexo in hexo-source branch
+script:
+  - hexo generate
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  # added
+  target_branch: main # generate static files to master
+  on:
+    branch: source # source code of hexo
+  local-dir: public
