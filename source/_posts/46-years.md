@@ -4,7 +4,7 @@ date: 2021-12-24 00:00:00
 tags:
 ---
 
-[Halloween](../images/pj_masks.jpg)
+![Halloween](../images/pj_masks.jpg)
 
 今年の誕生日日記の本題として、架空の世界の道具でしかなかった英語が身体化するまでの話を書こうと思う。
 
