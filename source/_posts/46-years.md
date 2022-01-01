@@ -65,7 +65,7 @@ tags:
 今まではコンサルティングスタイルのビジネスをアウトバウンド営業で取ってきた。
 今年の後半からはソーシャルネットワークを中心としたマーケティング活動を通じてインバウンドのリードを作りながら、製品・サービスを売ってゆくことを実験している。
 
-<video width="100%" controls poster="/images/handoff-1min-intro.png">
+<video width="100%" controls poster="../images/handoff-1min-intro.png">
   <source src="https://handoff.cloud/assets/video/handoff-1min-intro.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
