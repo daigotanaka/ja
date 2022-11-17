@@ -1,26 +1,10 @@
 ---
-title: Celebrating mistakes (間違ったらお祝いだ)
+title: 間違ったらお祝いだ
 date: 2017-04-02 00:00:00
 tags:
 ---
 
 ![](https://raw.githubusercontent.com/daigotanaka/essays/master/images/20170402-emi-dad.jpg)
-
-Dinner time conversation with my daughter over a picture book.
-
-Me: "Do chickens have a beak?"
-
-Emi: "No."
-
-Me: "Yes, they do. Look here."
-
-Emi: "Sorry, dada."
-
-Me: "No, you should never be sorry just because you made a mistake. Mistakes are great. We learn from them."
-
-Emi: "OK."
-
-I don't know what this 2 years old is really feeling when she says sorry, but I want her not to be afraid of or sorry for making mistakes. We should celebrate our mistakes! Take more risks.
 
 夕食時の娘と絵本を見ながらの会話。
 
